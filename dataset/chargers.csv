@@ -1,0 +1,11 @@
+id,label,type
+1,Home #1,AC
+2,Home #2,DC
+3,Home #3,AC
+4,Home #4,DC
+5,Home #5,AC
+6,Office #1,DC
+7,Office #2,AC
+8,Office #3,DC
+9,Office #4,AC
+10,Office #5,DC
